@@ -1,18 +1,18 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: Nonn-a
+url: nonn-a.github.io
+title: Nonn-a
+description: 
 twitter:
-  username: #yourusername
-  card: summary
-  creator: #yourusername
+  username: 
+  card: 
+  creator: 
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: 
+  name: 
   avatar:
-  email: #youremail
-  url: #yoururl
-permalink: pretty
+  email: 
+  url:  
+permalink: 
 
 baseurl: ""
 
